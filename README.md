@@ -6,5 +6,5 @@ After reviewing data presented on various Kickstarters, the optimal months to ge
 ![Launch_Date_Outcomes]
 Below is a comparison of Successful vs Failed US Kickstarters for plays
 
-![Pla_ Analysis]
+![Play_ Analysis](https://github.com/BPeaver/kickstarter-analysis/blob/main/Play%20Analysis.png)
 
